@@ -1,4 +1,4 @@
-# messmanagement
+# mess-management-sytem
 It is a duplicate of software system used in management of hostels or residential institutions
 
 It is developed using Oracle Database.
